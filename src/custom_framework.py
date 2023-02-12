@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+import src.querylib as querylib
+
 
 class PageNotFound404:
     def __call__(self, request):
@@ -20,10 +22,8 @@ class CustomFramework:
         if not path.endswith('/'):
             path = f'{path}/'
         
-        # Handle query params, collect common object
+        # Check query params
         request = {}
-        #request = self.handle_request(environ)
-
         """
         Wsgi environment variables
          'REQUEST_METHOD': 'GET', 
@@ -36,12 +36,12 @@ class CustomFramework:
          'HTTP_ACCEPT_ENCODING': 'gzip, deflate, br',
          'PATH_INFO': '/', 
         """
-      
-        # Front controller pattern handlerотработка паттерна front controller
-        #for front in self.fronts_lst:
-        #    front(request)
+        request_type = environ.get('REQUEST_METHOD') 
+        if request_type == 'GET':
+            request = querylib.retrieve_get_params(environ)
+        if request_type  == 'POST':
+            request = querylib.retrieve_post_params(environ)
         
-
         # Page controller pattern, search for corresponding page 'view' or 404
         view = self.routes_lst.get(path, PageNotFound404())
               
@@ -49,7 +49,6 @@ class CustomFramework:
         for front in self.fronts_lst:
             front(request)
         
-
         # Getting response, run page 'view' with passing query params
         code, body = view(request)
         
@@ -58,5 +57,49 @@ class CustomFramework:
         #return [body.encode('utf-8')]
         #return iter([body.encode('utf-8')])
         return [bytes(body, 'utf-8')]
+
+
+
+
+    def decode_request(self, environ):
+
+
+        #print(environ)
+        
+        request_type = environ.get('REQUEST_METHOD') 
+
+
+        if request_type == 'GET':
+            query_str = environ.get('QUERY_STRING')
+
+        if request_type  == 'POST':
+            content = int(environ.get('CONTENT_LENGTH', 0))        
+            if content > 0:
+                print(f"[>] Content: {int(environ.get('CONTENT_LENGTH', 0))}") 
+                #wsgi_input = environ.get('wsgi.input').read()
+                query_str = environ.get('wsgi.input').read().decode('utf-8')
+                print(f"[>] Input: {query_str}") 
+        
+
+        # Parse query string
+        result = dict(param.split('=') for param in query_str.split('&') if param)
+        
+        # Decode param values
+        #result = {key: 'Z' for key, val in result.items()}
+
+
+
+
+        #result = {k: v for lambda(x, y): param in params.split('=')}
+        print(result)
+
+
+             
+
+
+
+
+
+
 
 
