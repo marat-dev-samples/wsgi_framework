@@ -7,6 +7,7 @@ Collection of methods for dealing with wsgi requests
 import urllib
 import json
 
+
 def retrieve_post_params(environ):
     content = int(environ.get('CONTENT_LENGTH', 0))        
     if content == 0:
@@ -42,13 +43,3 @@ def retrieve_get_params(environ):
 def parse_query_string(query_str): 
     """Deprecated"""
     return dict(param.split('=') for param in query_str.split('&') if param)
-    
-
-
-
-
-
-
-
-
-
