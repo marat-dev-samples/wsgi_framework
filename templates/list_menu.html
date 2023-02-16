@@ -1,0 +1,16 @@
+{% set navigation_bar = [
+    ('/', '/', 'Index'),
+    ('/content/', 'content', 'Content'),
+    ('/contacts/', 'contacts', 'Contacts')
+] -%}
+
+{% set active_page = active_page | default('index') -%}
+
+<div id="menubar">
+<ul id="menu">
+{% for href, id, caption in navigation_bar %}
+  <li{% if href == active_page %} class="selected"{% endif
+  %}><a href="{{ href|e }}">{{ caption|e }}</a></li>
+{% endfor %}
+</ul>
+</div>

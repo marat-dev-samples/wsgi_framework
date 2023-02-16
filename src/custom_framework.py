@@ -24,6 +24,7 @@ class CustomFramework:
         
         # Check query params
         request = {}
+        
         """
         Wsgi environment variables
          'REQUEST_METHOD': 'GET', 
@@ -44,10 +45,11 @@ class CustomFramework:
         
         # Page controller pattern, search for corresponding page 'view' or 404
         view = self.routes_lst.get(path, PageNotFound404())
-              
+            
+
         # Front controller pattern handler 
         for front in self.fronts_lst:
-            front(request)
+            front(request, env=environ)
         
         # Getting response, run page 'view' with passing query params
         code, body = view(request)
@@ -57,8 +59,6 @@ class CustomFramework:
         #return [body.encode('utf-8')]
         #return iter([body.encode('utf-8')])
         return [bytes(body, 'utf-8')]
-
-
 
 
     def decode_request(self, environ):

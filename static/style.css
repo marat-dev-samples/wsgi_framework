@@ -7,9 +7,7 @@ html
 
 body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
-  
-  background: #F0EFE2 url(style/background.png) repeat;
-  background-color: #ffffff;
+  background: #F0EFE2 url(background.png) repeat;
   color: #777;}
 
 p
@@ -146,7 +144,6 @@ ul#menu li a
   padding: 29px 26px 6px 26px;
   text-align: center;
   color: #FFF;
-  color: #C0C0C0;
   text-transform: uppercase;
   text-decoration: none;
   background: transparent;} 
