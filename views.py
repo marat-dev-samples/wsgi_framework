@@ -54,51 +54,33 @@ class CategoryList:
                                 objects_list=site.categories, **request)
 
 
-# контроллер - список курсов
+# List content controller
 class ContentList:
     def __call__(self, request):
-        
-        
-        
         data = request.get('data')
         category_id = data.get('category_id')   
         category_name = ""        
         objects_list = []
-        
-
-         
-        # Handle POST request 
+                 
+        # Handle POST request for new content creation 
         if request['type'] == 'POST':
             category_id = data.get('category_id')   
             name = data.get('name')   
             content_type = data.get('type')   
-            
             try: 
                 category = site.find_category_by_id(int(category_id))
                 new_content = site.create_content(content_type, name, category)
                 site.content.append(new_content)
             except Exception as e:
-                print(f'{e}:name {name} category_id {category_id} content_type {content_type}')
-                logger.warning(e)
-
-            #if name and int(category_id) >= 0:
-            #    category = site.find_category_by_id(int(category_id))
-            #    new_content = site.create_content('html', name, category)
-            #    site.content.append(new_content)
-
+                logger.warning(f'{e}:name {name} category_id {category_id} content_type {content_type}')
 
         # If category defined - return posts from category or all posts otherways
         category_id = data.get('category_id')   
-        
         if category_id:
             category = site.find_category_by_id(int(category_id))
             objects_list = category.articles      
             category_name = category.name
-        '''
-        else:
-            objects_list = site.find_all_articles()
-        ''' 
-
+       
         return '200 OK', render('content_list.html', objects_list=objects_list, 
                                 categories_list=site.categories, content_types=site.content_types(),
                                 category_name=category_name, **request)
