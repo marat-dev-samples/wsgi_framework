@@ -24,7 +24,7 @@ class CustomFramework:
         
         # Check query params
         request = {}
-        
+
         """
         Wsgi environment variables
          'REQUEST_METHOD': 'GET', 
@@ -39,9 +39,9 @@ class CustomFramework:
         """
         request_type = environ.get('REQUEST_METHOD') 
         if request_type == 'GET':
-            request = querylib.retrieve_get_params(environ)
+            request['data'] = querylib.retrieve_get_params(environ)
         if request_type  == 'POST':
-            request = querylib.retrieve_post_params(environ)
+            request['data'] = querylib.retrieve_post_params(environ)
         
         # Page controller pattern, search for corresponding page 'view' or 404
         view = self.routes_lst.get(path, PageNotFound404())

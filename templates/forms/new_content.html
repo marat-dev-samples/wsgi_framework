@@ -1,0 +1,26 @@
+<h1>Create new article</h1>
+<form method="post" action="#" id="content_form">
+  <p>
+    <input class="search" type="text" name="name" value="" /> Enter title
+  </p>
+  <select name="category_id">
+    {% for item  in categories_list %}
+        <option value="{{item.id}}">
+        {{item.name}}
+        </option>
+    {% endfor %}
+  </select> Choose category
+  <br/><br/>
+  <select name="type">
+    {% for item  in content_types %}
+        <option value="{{item}}">
+        {{item}}
+        </option>
+    {% endfor %}
+  </select> Choose article type
+    
+
+
+
+  <br/><br/><input type="submit" value="Create"/>
+</form>

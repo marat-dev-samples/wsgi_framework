@@ -1,17 +1,17 @@
 # -*- coding: utf-8 -*-
 
 from datetime import date
-from views import Index, About, Content, Contacts
+from views import Index, About, Content, Contacts, CategoryList, ContentList
 
 
 # front controller
 def secret_front(request, **kwargs):
-    request['date'] = date.today()
+    request['token'] = None
 
 
 def other_front(request, **kwargs):
-    request['key'] = 'key'
-
+    request['type'] = kwargs.get('env', {}).get('REQUEST_METHOD','GET')
+    
 
 def user_front(request, **kwargs):
     request['user'] = 'user' # get_user()
@@ -25,6 +25,8 @@ fronts = [secret_front, other_front, user_front, page_front]
 routes = {
     '/': Index(),
     '/about/': About(),
-    '/content/': Content(),
     '/contacts/': Contacts(),
+    '/categories/': CategoryList(),
+    '/content/': ContentList(),
+    
 }

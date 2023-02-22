@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Available themes</h1>
+<ul id="themes_list">
+
+{% for item in objects_list %}
+  <li><a href="/content/?category_id={{ item.id }}">{{ item.name }}</a></li>
+{% endfor %}
+</ul>
+{% include "forms/category_form.html" %}
+{% endblock %}
+
