@@ -1,0 +1,21 @@
+<h1>Create category</h1>
+<right>
+<form method="post" action="/create-category/" id="contact_form">
+  <p>
+    <input class="search" type="text" name="theme_name" value="" /> Theme name
+  </p>
+  <select name="parent_category">
+    <option value="">None</option>
+    {% for item  in categories_list %}
+        <option value="{{item.name}}">
+        {{item.name}}
+        </option>
+    {% endfor %}
+  </select> Choose parent category
+  
+  <br/><br/><input type="submit" value="Submit"/>
+</form>
+</right>
+      
+
+

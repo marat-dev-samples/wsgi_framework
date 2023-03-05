@@ -1,0 +1,40 @@
+
+
+
+
+<h1>Edit this turorial</h1>
+
+<form method="post" action="/edit-content/" id="edit_form">
+  <input type="hidden" name="_method" value="patch" />
+  <input type="hidden" name="name" value='{{ content.name }}' />
+  <textarea name="content_text" rows=10 cols=50>{{ content.text }}</textarea>
+  <br/><br/><input type="submit" value="Save"/>
+</form>
+<br>
+<hr>
+<h1>Subscribers of this tutorial</h1>
+{% for user in content.contributors %}
+  <li><span>{{ user.name }}</span></li>
+{% endfor %}
+<br>
+
+
+<form method="post" action="/subscribe-content/" id="subscribe_form">
+  <input type="hidden" name="_method" value="patch" />
+  <input type="hidden" name="content_name" value='{{ content.name }}' />
+  
+  <select name="user_name">
+   <option value="">None</option>
+     {% for user  in users %}
+      {% if not user.is_author %}
+        <option value="{{user.id}}">
+        {{user.name}}
+        </option>
+      {% endif %}
+    {% endfor %}
+  </select> <span>Select user</span>
+  <br/><br/><input type="submit" value="Subscribe"/>
+</form>
+  
+
+

@@ -1,0 +1,2398 @@
+I am here
+Список категорий
+I am here
+Список категорий
+I am here
+Список категорий
+I am here
+Список категорий
+I am here
+Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: [>] POST params: {json.dumps(result, ensure_ascii=False, indent=4)}
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: [>] POST params: {json.dumps(result, ensure_ascii=False, indent=4)}
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: [>] POST params: {json.dumps(result, ensure_ascii=False, indent=4)}
+[log]: Список категорий
+[log]: [>] POST params: {json.dumps(result, ensure_ascii=False, indent=4)}
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: Список категорий
+[log]: [>] POST params: {
+    "theme_name": "Sensors",
+    "category_id": "1"
+}
+[log]: Список категорий
+[log]: [>] POST params: {
+    "theme_name": "Sensors",
+    "category_id": "1"
+}
+[log]: Список категорий
+[log]: [>] POST params: {
+    "theme_name": "Sensors",
+    "parent_category": "Arduino"
+}
+[log]: Список категорий
+[log]: [>] POST params: {
+    "theme_name": "Sensors",
+    "parent_category": "Arduino"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fcb860b55b0>, <patterns.creational.Category object at 0x7fcb860b58e0>]
+[log]: [>] POST params: {
+    "theme_name": "Raspberry Pi",
+    "parent_category": "Arduino"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fcb860b55b0>, <patterns.creational.Category object at 0x7fcb860b58e0>]
+[log]: [>] POST params: {
+    "theme_name": "Raspberry Pi",
+    "parent_category": "Arduino"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a94506b80>, <patterns.creational.Category object at 0x7f8a945069d0>]
+[log]: [>] POST params: {
+    "theme_name": "Raspberry Pi",
+    "parent_category": "Arduino"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a94506b80>, <patterns.creational.Category object at 0x7f8a945069d0>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Arduino"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a94506b80>, <patterns.creational.Category object at 0x7f8a945069d0>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Arduino"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: <patterns.creational.Category object at 0x7f8a944fa7c0>
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: <patterns.creational.Category object at 0x7f8a93cc9a00>
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>, <patterns.creational.Category object at 0x7f8a93cc9a00>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: <patterns.creational.Category object at 0x7f8a93c99a90>
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>, <patterns.creational.Category object at 0x7f8a93cc9a00>, <patterns.creational.Category object at 0x7f8a93c99a90>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: <patterns.creational.Category object at 0x7f8a93cbbc40>
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>, <patterns.creational.Category object at 0x7f8a93cc9a00>, <patterns.creational.Category object at 0x7f8a93c99a90>, <patterns.creational.Category object at 0x7f8a93cbbc40>]
+[log]: [>] POST params: {
+    "theme_name": "ewrwerwerewr",
+    "parent_category": "Raspberry pi"
+}
+[log]: <patterns.creational.Category object at 0x7f8a93c6fa00>
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>, <patterns.creational.Category object at 0x7f8a93cc9a00>, <patterns.creational.Category object at 0x7f8a93c99a90>, <patterns.creational.Category object at 0x7f8a93cbbc40>, <patterns.creational.Category object at 0x7f8a93c6fa00>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>, <patterns.creational.Category object at 0x7f8a93cc9a00>, <patterns.creational.Category object at 0x7f8a93c99a90>, <patterns.creational.Category object at 0x7f8a93cbbc40>, <patterns.creational.Category object at 0x7f8a93c6fa00>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>, <patterns.creational.Category object at 0x7f8a93cc9a00>, <patterns.creational.Category object at 0x7f8a93c99a90>, <patterns.creational.Category object at 0x7f8a93cbbc40>, <patterns.creational.Category object at 0x7f8a93c6fa00>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>, <patterns.creational.Category object at 0x7f8a93cc9a00>, <patterns.creational.Category object at 0x7f8a93c99a90>, <patterns.creational.Category object at 0x7f8a93cbbc40>, <patterns.creational.Category object at 0x7f8a93c6fa00>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>, <patterns.creational.Category object at 0x7f8a93cc9a00>, <patterns.creational.Category object at 0x7f8a93c99a90>, <patterns.creational.Category object at 0x7f8a93cbbc40>, <patterns.creational.Category object at 0x7f8a93c6fa00>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>, <patterns.creational.Category object at 0x7f8a93cc9a00>, <patterns.creational.Category object at 0x7f8a93c99a90>, <patterns.creational.Category object at 0x7f8a93cbbc40>, <patterns.creational.Category object at 0x7f8a93c6fa00>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>, <patterns.creational.Category object at 0x7f8a93cc9a00>, <patterns.creational.Category object at 0x7f8a93c99a90>, <patterns.creational.Category object at 0x7f8a93cbbc40>, <patterns.creational.Category object at 0x7f8a93c6fa00>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>, <patterns.creational.Category object at 0x7f8a93cc9a00>, <patterns.creational.Category object at 0x7f8a93c99a90>, <patterns.creational.Category object at 0x7f8a93cbbc40>, <patterns.creational.Category object at 0x7f8a93c6fa00>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>, <patterns.creational.Category object at 0x7f8a93cc9a00>, <patterns.creational.Category object at 0x7f8a93c99a90>, <patterns.creational.Category object at 0x7f8a93cbbc40>, <patterns.creational.Category object at 0x7f8a93c6fa00>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>, <patterns.creational.Category object at 0x7f8a93cc9a00>, <patterns.creational.Category object at 0x7f8a93c99a90>, <patterns.creational.Category object at 0x7f8a93cbbc40>, <patterns.creational.Category object at 0x7f8a93c6fa00>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f0550>, <patterns.creational.Category object at 0x7f8a944f0880>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f0550>, <patterns.creational.Category object at 0x7f8a944f0880>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f0550>, <patterns.creational.Category object at 0x7f8a944f0880>]
+[log]: [>] POST params: {
+    "theme_name": "Sensors",
+    "parent_category": "None"
+}
+[log]: <patterns.creational.Category object at 0x7f8a93cb2c40>
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f0550>, <patterns.creational.Category object at 0x7f8a944f0880>, <patterns.creational.Category object at 0x7f8a93cb2c40>]
+[log]: [>] POST params: {
+    "theme_name": "Sensors",
+    "parent_category": "None"
+}
+[log]: <patterns.creational.Category object at 0x7f8a93ca9070>
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f0550>, <patterns.creational.Category object at 0x7f8a944f0880>, <patterns.creational.Category object at 0x7f8a93cb2c40>, <patterns.creational.Category object at 0x7f8a93ca9070>]
+[log]: [>] POST params: {
+    "theme_name": "Wireless"
+}
+[log]: <patterns.creational.Category object at 0x7f8a93cb28e0>
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f0550>, <patterns.creational.Category object at 0x7f8a944f0880>, <patterns.creational.Category object at 0x7f8a93cb2c40>, <patterns.creational.Category object at 0x7f8a93ca9070>, <patterns.creational.Category object at 0x7f8a93cb28e0>]
+[log]: [>] POST params: {
+    "theme_name": "Wireless"
+}
+[log]: <patterns.creational.Category object at 0x7f8a944fa7c0>
+[log]: Список категорий [<patterns.creational.Category object at 0x7f8a944f05b0>, <patterns.creational.Category object at 0x7f8a944f08e0>, <patterns.creational.Category object at 0x7f8a944fa7c0>]
+[log]: [>] POST params: {
+    "theme_name": "Wireless"
+}
+[log]: <patterns.creational.Category object at 0x7f31e2d65760>
+[log]: Список категорий [<patterns.creational.Category object at 0x7f31e2d57550>, <patterns.creational.Category object at 0x7f31e2d57880>, <patterns.creational.Category object at 0x7f31e2d65760>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f31e2d57550>, <patterns.creational.Category object at 0x7f31e2d57880>, <patterns.creational.Category object at 0x7f31e2d65760>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f31e2d57550>, <patterns.creational.Category object at 0x7f31e2d57880>, <patterns.creational.Category object at 0x7f31e2d65760>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecb550>, <patterns.creational.Category object at 0x7fdc95ecb880>]
+[log]: [>] POST params: {
+    "name": "dgdfdfsd",
+    "category_name": "0",
+    "type": "webinar"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name dgdfdfsd category_id None content_type webinar
+[log]: [>] POST params: {
+    "name": "dgdfdfsd",
+    "category_id": "0",
+    "type": "html"
+}
+[log]: [>] POST params: {
+    "name": "dgdfdfsd",
+    "category_id": "0",
+    "type": "html"
+}
+[log]: [>] POST params: {
+    "name": "dgdfdfsd",
+    "category_id": "0",
+    "type": "html"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ee3b80>, <patterns.creational.Category object at 0x7fdc95ee39d0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ee3b80>, <patterns.creational.Category object at 0x7fdc95ee39d0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc550>, <patterns.creational.Category object at 0x7fdc95ecc880>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc550>, <patterns.creational.Category object at 0x7fdc95ecc880>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecb5e0>, <patterns.creational.Category object at 0x7fdc95ecb910>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "name": "dgdfdfsd",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "name": "dgdfdfsd",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "name": "dgdfdfsd",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "name": "wireless module",
+    "category_id": "0",
+    "type": "html"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "name": "wireless create",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ee3b80>, <patterns.creational.Category object at 0x7fdc95ee39d0>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "html"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "html"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "html"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "html"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ee3b80>, <patterns.creational.Category object at 0x7fdc95ee39d0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "name": "sdfsfsdfsdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "name": "dffsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "name": "dsfdfsfsffsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_text": "sfasdfsdgdfgfdgdfgfdg",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_text": "sfasdfsdgdfgfdgdfgfdg",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: [>] POST params: {
+    "name": "sdfsdsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_text": "sfasfsafasdsfsdf",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_text": "sfasfsafasdsfsdf",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_text": "sfasfsafasdsfsdf",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecd550>, <patterns.creational.Category object at 0x7fdc95ecd880>]
+[log]: [>] POST params: {
+    "name": "dgdfdfsd",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecd550>, <patterns.creational.Category object at 0x7fdc95ecd880>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecd550>, <patterns.creational.Category object at 0x7fdc95ecd880>]
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "dgdfdfsd",
+    "content_text": "sdfsdfsdf sfsdf sdfsdfsdfsdfsdf",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "name": "Users",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Users",
+    "content_text": "sdfsdfsdfsdfsd",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Users",
+    "content_text": "sdfsdfsdfsdfsdfds",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Users",
+    "content_text": "sdfsdfsdfsdfsdfds",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ee3b80>, <patterns.creational.Category object at 0x7fdc95ee39d0>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "html"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Wireless",
+    "content_text": "i am here sdfsdsdfsdf",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ee3b80>, <patterns.creational.Category object at 0x7fdc95ee39d0>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "html"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Wireless",
+    "content_text": "i am here dsdfsdfd",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Wireless",
+    "content_text": "i am here sdfsdf",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Wireless",
+    "content_text": "i am here sdfsdf",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Wireless",
+    "content_text": "i am here dfsdsdf",
+    "type": "PATCH"
+}
+[log]: int() argument must be a string, a bytes-like object or a number, not 'NoneType':name None category_id None content_type PATCH
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Wireless",
+    "content_text": "i am here dfsdsdf",
+    "type": "PATCH"
+}
+[log]: > Patch handler
+[log]: None
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc550>, <patterns.creational.Category object at 0x7fdc95ecc880>]
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Wireless",
+    "content_text": "i am here dsfsdfsdf",
+    "type": "PATCH"
+}
+[log]: > Patch handler
+[log]: None
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Wireless",
+    "content_text": "i am here dsfsdfsdf",
+    "type": "PATCH"
+}
+[log]: None
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Wireless",
+    "content_text": "i am here dsfsdfsdf",
+    "type": "PATCH"
+}
+[log]: None
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Wireless",
+    "content_text": "i am here dsfsdfsdf",
+    "type": "PATCH"
+}
+[log]: None
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Wireless",
+    "content_text": "i am here dsfsdfsdf",
+    "type": "PATCH"
+}
+[log]: None
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Wireless",
+    "content_text": "i am here dsfsdfsdf",
+    "type": "PATCH"
+}
+[log]: None
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_id": "Wireless",
+    "content_text": "i am here dsfsdfsdf",
+    "type": "PATCH"
+}
+[log]: None
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless",
+    "content_text": "i am here dsfsdfsd",
+    "type": "PATCH"
+}
+[log]: None
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless",
+    "content_text": "i am here dsfsdfsd",
+    "type": "PATCH"
+}
+[log]: None Wireless i am here dsfsdfsd
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless",
+    "content_text": "i am here dsfsdfsd",
+    "type": "PATCH"
+}
+[log]: None Wireless i am here dsfsdfsd
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless",
+    "content_text": "i am here dsfsdfsd  sdfdsfsdd",
+    "type": "PATCH"
+}
+[log]: None Wireless i am here dsfsdfsd  sdfdsfsdd
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless",
+    "content_text": "i am here dsfsdfsd  sdfdsfsdd",
+    "type": "PATCH"
+}
+[log]: None Wireless i am here dsfsdfsd  sdfdsfsdd
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless",
+    "content_text": "i am here dsfsdfsd  sdfdsfsdd",
+    "type": "PATCH"
+}
+[log]: None Wireless i am here dsfsdfsd  sdfdsfsdd
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95e6f580>, <patterns.creational.Category object at 0x7fdc95e6f3d0>]
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless",
+    "content_text": "i am here dfdfsdfdsf",
+    "type": "PATCH"
+}
+[log]: None Wireless i am here dfdfsdfdsf
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless",
+    "content_text": "i am here dfdfsdfdsf",
+    "type": "PATCH"
+}
+[log]: None Wireless i am here dfdfsdfdsf
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95e6f5e0>, <patterns.creational.Category object at 0x7fdc95e6f430>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95e6f5e0>, <patterns.creational.Category object at 0x7fdc95e6f430>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless",
+    "content_text": "i am here sfdfsdfsd",
+    "type": "PATCH"
+}
+[log]: None Wireless i am here sfdfsdfsd
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc550>, <patterns.creational.Category object at 0x7fdc95ecc880>]
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless%20module",
+    "content_text": "i am here",
+    "type": "PATCH"
+}
+[log]: None Wireless%20module i am here
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless%20module",
+    "content_text": "i am here",
+    "type": "PATCH"
+}
+[log]: None Wireless%20module i am here
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "content_text": "i am here dfsfsdfsdf",
+    "type": "PATCH"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc95ed9760> Wireless module i am here dfsfsdfsdf
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "content_text": "i am here dfsfsdfsdf",
+    "type": "PATCH"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc95ed9760> Wireless module i am here dfsfsdfsdf
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "content_text": "i am here dfsfsdfsdf",
+    "type": "PATCH"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc95ed9760> Wireless module i am here dfsfsdfsdf
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "content_text": "i am here dfsfsdfsdf jljlsdfjlsdjfs",
+    "type": "PATCH"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc95ed9760> Wireless module i am here dfsfsdfsdf jljlsdfjlsdjfs
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "content_text": "i am here dfsfsdfsdf jljlsdfjlsdjfs",
+    "type": "PATCH"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc95ed9760> Wireless module i am here dfsfsdfsdf jljlsdfjlsdjfs
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "content_text": "i am here dfsfsdfsdf jljlsdfjlsdjfs",
+    "type": "PATCH"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc95ed9760> Wireless module i am here dfsfsdfsdf jljlsdfjlsdjfs
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "content_text": "i am here dfsfsdfsdf jljlsdfjlsdjfs",
+    "type": "PATCH"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc95ed9760> Wireless module i am here dfsfsdfsdf jljlsdfjlsdjfs
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "content_text": "i am here dfsfsdfsdf jljlsdfjlsdjfs",
+    "type": "PATCH"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc95ed9760> Wireless module i am here dfsfsdfsdf jljlsdfjlsdjfs
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "content_text": "i am here",
+    "type": "PATCH"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc95ed9760> Wireless module i am here
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "content_text": "i am here",
+    "type": "PATCH"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "sdfsdfsdfsdf",
+    "content_text": "i am here dfsdfdsfs",
+    "type": "PATCH"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc9568e340> sdfsdfsdfsdf i am here dfsdfdsfs
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "content_name": "dsfsdfsdfsdfsdfdsf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "content_name": "dsfsdfsdfsdfsdfdsf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc95ed67c0>
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc95ed67c0>
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc9568ae80>
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc95ed67c0>
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc9568ae80>
+[log]: <patterns.creational.WebinarFormat object at 0x7fdc9562cac0>
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: None
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: None
+[log]: None
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: None
+[log]: None
+[log]: None
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: None
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: i am here
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: i am here
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: i am here
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: i am here
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: i am here
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: i am here
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: i am here
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: i am here
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: i am here
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: i am here
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: i am here
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: webinar
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc8e0>]
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: webinar
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type']
+[log]: None
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95e6f580>, <patterns.creational.Category object at 0x7fdc95e6f400>]
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: name 'log' is not defined:name None category_id 0 content_type webinar
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: > Create content: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: > Create content: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: > Create content: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: [>] POST params: {
+    "content_name": "sdfsdfsdfsdf",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: > Create content: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc940>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: > Create content: Wireless module
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: Wireless module
+[log]: Список категорий [<patterns.creational.Category object at 0x7fdc95ecc5b0>, <patterns.creational.Category object at 0x7fdc95ecc940>]
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: Wireless module
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: Wireless module
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: None
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: Wireless module
+[log]: Список категорий [<patterns.creational.Category object at 0x7f48b3bc4550>, <patterns.creational.Category object at 0x7f48b3bc48e0>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: > Create content: Wireless module
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: Wireless module
+[log]: Список категорий [<patterns.creational.Category object at 0x7f48b3bc4550>, <patterns.creational.Category object at 0x7f48b3bc48e0>]
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: Wireless module
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: Wireless module
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "i am here sddadasd",
+    "type": "PATCH"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7f48b3391c40> Wireless module i am here sddadasd
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "i am here",
+    "type": "PATCH"
+}
+[log]: <patterns.creational.WebinarFormat object at 0x7f48b3391c40> Wireless module i am here
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "i am here",
+    "type": "PATCH"
+}
+[log]: Failed to patch content: Wireless module 
+ 'NoneType' object has no attribute 'text'
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: ['__class__', '__delattr__', '__dict__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__le__', '__lt__', '__module__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', 'articles_count', 'category', 'clone', 'name', 'text', 'type', 'url_name']
+[log]: Wireless module
+[log]: Список категорий [<patterns.creational.Category object at 0x7f48b3bc55b0>, <patterns.creational.Category object at 0x7f48b3bc5940>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f48b3bc55b0>, <patterns.creational.Category object at 0x7f48b3bc5940>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f48b3bc55b0>, <patterns.creational.Category object at 0x7f48b3bc5940>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f48b3bc55b0>, <patterns.creational.Category object at 0x7f48b3bc5940>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f50370be8b0>, <patterns.creational.Category object at 0x7f50370bee50>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f50370be8b0>, <patterns.creational.Category object at 0x7f50370bee50>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d728b0>, <patterns.creational.Category object at 0x7f9d69d72e50>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d728b0>, <patterns.creational.Category object at 0x7f9d69d72e50>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d728b0>, <patterns.creational.Category object at 0x7f9d69d72e50>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d728b0>, <patterns.creational.Category object at 0x7f9d69d72e50>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d728b0>, <patterns.creational.Category object at 0x7f9d69d72e50>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d728b0>, <patterns.creational.Category object at 0x7f9d69d72e50>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d728b0>, <patterns.creational.Category object at 0x7f9d69d72e50>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: create_content() missing 1 required positional argument: 'author':name Wireless module category_id 0 content_type webinar
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d728b0>, <patterns.creational.Category object at 0x7f9d69d72e50>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d728b0>, <patterns.creational.Category object at 0x7f9d69d72e50>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d728b0>, <patterns.creational.Category object at 0x7f9d69d72e50>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: create_content() missing 1 required positional argument: 'author':name Wireless module category_id 0 content_type webinar
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d17670>, <patterns.creational.Category object at 0x7f9d69d8b190>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d17670>, <patterns.creational.Category object at 0x7f9d69d8b190>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "dfsdsfsdfsdf",
+    "type": "PATCH"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d738b0>, <patterns.creational.Category object at 0x7f9d69d73e80>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d738b0>, <patterns.creational.Category object at 0x7f9d69d73e80>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d738b0>, <patterns.creational.Category object at 0x7f9d69d73e80>]
+[log]: Api call
+[log]: Api call
+[log]: Api call
+[log]: Api call
+[log]: Api call
+[log]: <patterns.creational.Category object at 0x7f9d69d738b0>
+[log]: Api call
+[log]: <patterns.creational.Category object at 0x7f9d69d738b0>
+[log]: Api call
+[log]: <patterns.creational.Category object at 0x7f9d69d738b0>
+[log]: {}
+[log]: Api call
+[log]: <patterns.creational.Category object at 0x7f9d69d738b0>
+[log]: {}
+[log]: Api call
+[log]: <patterns.creational.Category object at 0x7f9d69d738b0>
+[log]: {}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d738b0>, <patterns.creational.Category object at 0x7f9d69d73e80>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d738b0>, <patterns.creational.Category object at 0x7f9d69d73e80>]
+[log]: Api call
+[log]: <patterns.creational.Category object at 0x7f9d69d738b0>
+[log]: 'str' object has no attribute 'name'
+[log]: Api call
+[log]: <patterns.creational.Category object at 0x7f9d69d738b0>
+[log]: {}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d738b0>, <patterns.creational.Category object at 0x7f9d69d73e80>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f9d69d738b0>, <patterns.creational.Category object at 0x7f9d69d73e80>]
+[log]: Api call
+[log]: <patterns.creational.Category object at 0x7f9d69d738b0>
+[log]: {'Wireless module': {'name': 'Wireless module', 'author': 'Alexander Peers', 'type': 'webinar', 'contributors': []}}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95cf8e0>, <patterns.creational.Category object at 0x7f58d95cfeb0>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "dfgdgdfgdgdfgdfgfdg",
+    "type": "PATCH"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95cf8e0>, <patterns.creational.Category object at 0x7f58d95cfeb0>]
+[log]: Api call
+[log]: <patterns.creational.Category object at 0x7f58d95cf8e0>
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Api call
+[log]: <patterns.creational.Category object at 0x7f58d95d1df0>
+[log]: Api call
+[log]: <patterns.creational.Category object at 0x7f58d95d1820>
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Api call
+[log]: <patterns.creational.Category object at 0x7f58d95d1820>
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1820>, <patterns.creational.Category object at 0x7f58d95d1df0>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d18b0>, <patterns.creational.Category object at 0x7f58d95d1e80>]
+[log]: [>] POST params: {
+    "name": "New user",
+    "isadmin": "on"
+}
+[log]: [>] POST params: {
+    "name": "New user",
+    "isadmin": "on"
+}
+[log]: [>] POST params: {
+    "name": "Марат",
+    "is_admin": "on"
+}
+[log]: [>] POST params: {
+    "name": "Марат",
+    "is_admin": "on"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1940>, <patterns.creational.Category object at 0x7f58d95d1f70>]
+[log]: [>] POST params: {
+    "name": "фывадыаодыва"
+}
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1940>, <patterns.creational.Category object at 0x7f58d95d1f70>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1940>, <patterns.creational.Category object at 0x7f58d95d1f70>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1940>, <patterns.creational.Category object at 0x7f58d95d1f70>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "user": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: Failed to patch content: None 
+ 'NoneType' object has no attribute 'text'
+[log]: Список категорий [<patterns.creational.Category object at 0x7f58d95d1940>, <patterns.creational.Category object at 0x7f58d95d1f70>]
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "dsfsdf sdfsdf sdfsdfsdsfd",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "dsfsdf sdfsdf sdfsdfsdsfd",
+    "type": "PATCH"
+}
+[log]: Failed to patch content: Wireless module 
+ 'NoneType' object has no attribute 'text'
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "dsfsdf sdfsdf sdfsdfsdsfd",
+    "type": "PATCH"
+}
+[log]: Failed to patch content: Wireless module 
+ 'NoneType' object has no attribute 'text'
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "dsfsdf sdfsdf sdfsdfsdsfd",
+    "type": "PATCH"
+}
+[log]: Failed to patch content: Wireless module 
+ 'NoneType' object has no attribute 'text'
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "dsfsdf sdfsdf sdfsdfsdsfd",
+    "type": "PATCH"
+}
+[log]: Failed to patch content: Wireless module 
+ 'NoneType' object has no attribute 'text'
+[log]: Список категорий [<patterns.creational.Category object at 0x7efc75465880>, <patterns.creational.Category object at 0x7efc75465eb0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7efc75466880>, <patterns.creational.Category object at 0x7efc75466eb0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7efc75466880>, <patterns.creational.Category object at 0x7efc75466eb0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7efc75466940>, <patterns.creational.Category object at 0x7efc75466f70>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7efc75466940>, <patterns.creational.Category object at 0x7efc75466f70>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7efc75466940>, <patterns.creational.Category object at 0x7efc75466f70>]
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "dsfsdf sdfsdf sdfsdfsdsfd",
+    "type": "PATCH"
+}
+[log]: Failed to patch content: Wireless module 
+ 'NoneType' object has no attribute 'text'
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "dsfsdf sdfsdf sdfsdfsdsfd",
+    "type": "PATCH"
+}
+[log]: Failed to patch content: Wireless module 
+ 'NoneType' object has no attribute 'text'
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "dsfsdf sdfsdf sdfsdfsdsfd",
+    "type": "PATCH"
+}
+[log]: Failed to patch content: Wireless module 
+ 'NoneType' object has no attribute 'text'
+[log]: Список категорий [<patterns.creational.Category object at 0x7efc75466880>, <patterns.creational.Category object at 0x7efc75466eb0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7efc75466880>, <patterns.creational.Category object at 0x7efc75466eb0>]
+[log]: Список категорий [<patterns.creational.Category object at 0x7efc754658e0>, <patterns.creational.Category object at 0x7efc75465f10>]
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: >>>>> Redirect
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: >>>>> Redirect
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: >>>>> Redirect
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: >>>>> Redirect
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: >>>>> Redirect
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: >>>>> Redirect
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: >>>>> Redirect
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: >>>>> Redirect
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: >>>>> Redirect
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: >>>>> Redirect
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: >>>>> Redirect
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: >>>>> Redirect
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "sdfsdsdfsdf sdfsdf sdfsdfsdf",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "sdfsdsdfsdf sdfsdf sdfsdfsdf sfsdfsdf",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "sdfsdsdfsdf sdfsdf sdfsdfsdf sfsdfsdf sdfsdfsdf",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "dsfsfdsf dfsdf sdfsdfsdfsdf",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "user": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "user": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "user": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "user": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "sdfsfsffsdfsd",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "sdfsdsdfsdf",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Bill Gates",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: None
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Bill Gates",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: None
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: None
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: Gonzo Wonzo
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: Gonzo Wonzo
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: Gonzo Wonzo
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: Gonzo Wonzo
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: Gonzo Wonzo
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: Gonzo Wonzo
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Bill Gates",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: Bill Gates
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: Gonzo Wonzo
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: name 'PrintNotifier' is not defined:name Wireless module category_id 0 content_type webinar
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: name 'PrintNotifier' is not defined:name Wireless module category_id 0 content_type webinar
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "sdfdffsfsdf",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: Gonzo Wonzo
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: Gonzo Wonzo
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Bill Gates",
+    "type": "PATCH"
+}
+[log]: > Subscribe content
+[log]: Bill Gates
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "sdfsdsdfsdfsdf",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "ddfgdgdfgfd gfdgfdgdf dfgdfgdfgdfg",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Bill Gates",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Bill Gates",
+    "type": "PATCH"
+}
+[log]: <patterns.creational.Category object at 0x7f9b73e7a940>
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: > Create new category <patterns.creational.Category object at 0x7f57d44e7640>
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: > Create new category <patterns.creational.Category object at 0x7f57d44e7490>
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: > Create new category <patterns.creational.Category object at 0x7f57d4560a30>
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: > Create new category <patterns.creational.Category object at 0x7f57d4560c70>
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: > Create new category <patterns.creational.Category object at 0x7f57d4560ee0>
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: > Create new category <patterns.creational.Category object at 0x7f57d4560550>
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: > Create new category <patterns.creational.Category object at 0x7f57d45600a0>
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: > Create new category <patterns.creational.Category object at 0x7f57d44e8550>
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: > Create new category <patterns.creational.Category object at 0x7f57d44e82b0>
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: > Create new category <patterns.creational.Category object at 0x7f57d44e8c70>
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: > Create new category <patterns.creational.Category object at 0x7f57d44fe130>
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: > Create new category <patterns.creational.Category object at 0x7f57d4560a00>
+[log]: [>] POST params: {
+    "theme_name": "Sensors"
+}
+[log]: > Create new category <patterns.creational.Category object at 0x7f57d4500820>
+[log]: > Insert user Muzzy
+[log]: > Insert user Gonzo Wonzo
+[log]: > Insert user Vintic
+[log]: > Insert user Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar"
+}
+[log]: No user with name: None:name Wireless module category_id 0 content_type webinar
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Alexander Peers
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Alexander Peers
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Alexander Peers
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: No user with name: Alexander Peers:name Wireless module category_id 0 content_type webinar
+[log]: > Insert user: Alexander Peers
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: No user with name: Alexander Peers:name Wireless module category_id 0 content_type webinar
+[log]: > Insert user: Alexander Peers
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Alexander Peers
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Alexander Peers
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Alexander Peers
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "Alexander Peers"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: > Insert user: Alexander Peers
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: > Insert user: Alexander Peers
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: > Insert user: Alexander Peers
+[log]: > Insert user: Muzzy
+[log]: > Insert user: Gonzo Wonzo
+[log]: > Insert user: Vintic
+[log]: > Insert user: Shpuntic
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "Gonzo Wonzo",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "3",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "3",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "3",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "3",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "3",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "3",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "name": "dgdfdfsd"
+}
+[log]: [>] POST params: {
+    "name": "dgdfdfsd"
+}
+[log]: [>] POST params: {
+    "name": "dgdfdfsd"
+}
+[log]: [>] POST params: {
+    "name": "dgdfdfsd"
+}
+[log]: [>] POST params: {
+    "name": "dgdfdfsd"
+}
+[log]: > Insert user: dgdfdfsd
+[log]: [>] POST params: {
+    "name": "Марат"
+}
+[log]: > Insert user: Марат
+[log]: [>] POST params: {
+    "name": "Марат"
+}
+[log]: > Insert user: Марат
+[log]: [>] POST params: {
+    "name": "Марат"
+}
+[log]: > Insert user: Марат
+[log]: [>] POST params: {
+    "name": "Марат"
+}
+[log]: > Insert user: Марат
+[log]: [>] POST params: {
+    "name": "Марат"
+}
+[log]: > Insert user: Марат
+[log]: [>] POST params: {
+    "name": "dgdfdfsd"
+}
+[log]: [>] POST params: {
+    "name": "dgdfdfsd"
+}
+[log]: > Insert user: dgdfdfsd
+[log]: [>] POST params: {
+    "name": "Wireless module",
+    "category_id": "0",
+    "type": "webinar",
+    "author": "1"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "sdffsdfsdfsd dsfsdfsdf sdfdsfdsfsdf",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "name": "Wireless module",
+    "content_text": "sdffsdfsdfsd dsfsdfsdf sdfdsfdsfsdf sdfdsfsdf",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "3",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "3",
+    "type": "PATCH"
+}
+[log]: [>] POST params: {
+    "_method": "patch",
+    "content_name": "Wireless module",
+    "user_name": "4",
+    "type": "PATCH"
+}

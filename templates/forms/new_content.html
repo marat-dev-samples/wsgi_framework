@@ -1,5 +1,5 @@
-<h1>Create new article</h1>
-<form method="post" action="#" id="content_form">
+<h1>Create new tutorial</h1>
+<form method="post" action="/create-content/" id="content_form">
   <p>
     <input class="search" type="text" name="name" value="" /> Enter title
   </p>
@@ -18,9 +18,17 @@
         </option>
     {% endfor %}
   </select> Choose article type
-    
-
-
+  <br/><br/>
+  
+  <select name="author">
+    {% for user  in users %}
+      {% if user.is_author %}
+        <option value="{{user.id}}">
+        {{user.name}}
+        </option>
+      {% endif %}
+    {% endfor %}
+  </select> Choose author
 
   <br/><br/><input type="submit" value="Create"/>
 </form>

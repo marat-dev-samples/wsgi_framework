@@ -1,4 +1,7 @@
 <div id="header">
+      {% if webpush %}
+        <div class="notification-top-bar"><p>{{ webpush }}</p></div>
+      {% endif %}
       <div id="logo">
         <div id="logo_text">
           <!-- class="logo_colour", allows you to change the colour of the text -->

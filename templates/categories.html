@@ -1,12 +1,23 @@
 {% extends "base.html" %}
 {% block content %}
-<h1>Available themes</h1>
+<h1>Available categories</h1>
 <ul id="themes_list">
 
-{% for item in objects_list %}
-  <li><a href="/content/?category_id={{ item.id }}">{{ item.name }}</a></li>
+{% for item in categories_list %}
+  <li>
+    <a href="/content/?category_id={{ item.id }}">{{ item.name }}</a>
+    <span>({{ item.category }})</span>
+    <a href="/api/category?category_id={{ item.id }}"> api call</a>
+  </li>
 {% endfor %}
 </ul>
-{% include "forms/category_form.html" %}
+{% include "forms/new_category.html" %}
+{% for key in d recursive %}
+  <li>{{ key }}
+    {% if d[key] %}
+      <ul>{{ loop(d[key]) }}</ul>
+    {% endif %}
+  </li>
+{% endfor %}
 {% endblock %}
 

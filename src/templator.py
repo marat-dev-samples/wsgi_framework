@@ -9,7 +9,6 @@ def render(template_name, folder='templates', **kwargs):
     env = Environment()
     env.loader = FileSystemLoader(searchpath=folder)
     template = env.get_template(template_name)
-    print(kwargs)
     return template.render(**kwargs)
 
 

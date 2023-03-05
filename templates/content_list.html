@@ -1,15 +1,24 @@
 {% extends "base.html" %}
 {% block content %}
-{% if category_name %}
-    <h1>{{category_name}}</h1>
-<ul id="themes_list">
-{% for item in objects_list %}
-  <li><h5>{{ item.name }} (format: {{ item.type }})</h5></li>
-{% endfor %}
-</ul>
-<hr>
+{%if content %} 
+  <h1>{{content.name}}</h1>
+  <p>{{ content.text }}</p>
+  <br/><br/><hr>
+
+{% include "forms/edit_content.html" %}
+
+{% else %}
+  {% if category %}
+    <h1>Please select tutorial for: {{category.name}}</h1>
+    <hr>
+    <ul id="themes_list">
+        {% for item in category.articles %}
+          <li><a href="/content/?name={{item.name}}">{{ item.name }} (format: {{ item.type }})</a></li>
+        {% endfor %}
+      </ul>
+  {% endif %}
+  {% include "forms/new_content.html" %}
 {% endif %}
-{% include "forms/new_content.html" %}
 {% endblock %}
 
 

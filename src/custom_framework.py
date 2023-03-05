@@ -2,11 +2,14 @@
 
 import src.querylib as querylib
 
+from patterns.structural import *
 
+
+'''
 class PageNotFound404:
     def __call__(self, request):
         return '404 WHAT', '404 PAGE Not Found'
-
+'''
 
 class CustomFramework:
 
@@ -42,59 +45,49 @@ class CustomFramework:
             request['data'] = querylib.retrieve_get_params(environ)
         if request_type  == 'POST':
             request['data'] = querylib.retrieve_post_params(environ)
+
         
+
+
+
+
         # Page controller pattern, search for corresponding page 'view' or 404
-        view = self.routes_lst.get(path, PageNotFound404())
-            
+        #view = self.routes_lst.get(path, PageNotFound404())
 
         # Front controller pattern handler 
         for front in self.fronts_lst:
             front(request, env=environ)
         
         # Getting response, run page 'view' with passing query params
-        code, body = view(request)
+        #code, body = view(request)
+         
         
+        
+
+
+        code, body = AppRouter.route(path, request)
+        
+        # Redirect response 
+        if code in [301, 302, 303]:
+            start_response('302 Found', [('Location', body)])
+            return [bytes('', 'utf-8')] 
+        
+
         # Return response 
         start_response(code, [('Content-Type', 'text/html')])
-        #return [body.encode('utf-8')]
-        #return iter([body.encode('utf-8')])
         return [bytes(body, 'utf-8')]
 
 
-    def decode_request(self, environ):
-
-
-        #print(environ)
-        
-        request_type = environ.get('REQUEST_METHOD') 
-
-
-        if request_type == 'GET':
-            query_str = environ.get('QUERY_STRING')
-
-        if request_type  == 'POST':
-            content = int(environ.get('CONTENT_LENGTH', 0))        
-            if content > 0:
-                print(f"[>] Content: {int(environ.get('CONTENT_LENGTH', 0))}") 
-                #wsgi_input = environ.get('wsgi.input').read()
-                query_str = environ.get('wsgi.input').read().decode('utf-8')
-                print(f"[>] Input: {query_str}") 
-        
-
-        # Parse query string
-        result = dict(param.split('=') for param in query_str.split('&') if param)
-        
-        # Decode param values
-        #result = {key: 'Z' for key, val in result.items()}
+    
 
 
 
 
-        #result = {k: v for lambda(x, y): param in params.split('=')}
-        print(result)
 
 
-             
+
+
+
 
 
 
