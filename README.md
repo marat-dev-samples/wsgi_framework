@@ -79,7 +79,7 @@ P.S. Под использование `UserMapper` и `UnitOfWork` адапти
 
 Для запуска проекта
 
-`python -m unittest -v tests.development`
+`gunicorn wsgi:'run()' --reload`
 
 
 
