@@ -14,7 +14,6 @@ logger.add_handler(StreamHandler())
 # Define main site engine
 site = Engine()
 
-
 # Init sample data
 new_category = site.create_category('Raspberry pi')
 site.categories.append(new_category)
@@ -183,12 +182,3 @@ class CreateUser(CreateView):
         UnitOfWork.new_current()
         user.mark_new()
         UnitOfWork.get_current().commit()
-        
-
-
-
-
-
-
-
-

@@ -1,6 +1,7 @@
 import time
 import urllib.parse
 
+
 class PageNotFound404:
     def __call__(self, request):
         return '404 WHAT', '404 PAGE Not Found'

@@ -1,9 +1,4 @@
-
-
-
-
 <h1>Edit this turorial</h1>
-
 <form method="post" action="/edit-content/" id="edit_form">
   <input type="hidden" name="_method" value="patch" />
   <input type="hidden" name="name" value='{{ content.name }}' />
@@ -17,8 +12,6 @@
   <li><span>{{ user.name }}</span></li>
 {% endfor %}
 <br>
-
-
 <form method="post" action="/subscribe-content/" id="subscribe_form">
   <input type="hidden" name="_method" value="patch" />
   <input type="hidden" name="content_name" value='{{ content.name }}' />

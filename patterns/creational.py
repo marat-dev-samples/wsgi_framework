@@ -3,8 +3,10 @@ import os
 from patterns.behavioral import Subject
 from patterns.unit_of_work import DomainObject, RegistryHolder
 
-# Users definition
+
 class User(DomainObject):
+    """Users definition"""
+
     def __init__(self, id, name, is_author=False):
         self.id = id
         self.name = name
@@ -39,16 +41,15 @@ class UserFactory:
         return Author(name) 
 
 
-# Prototype pattern definition
 class DataPrototype:
-    # Common prototype pattern
+    """Prototype pattern definition"""
 
     def clone(self):
         return deepcopy(self)
 
 
-# Content (articles) definition
 class Content(DataPrototype, Subject):
+    """Content (articles) definition"""
 
     def __init__(self, name, category, type_, author: object):
         self.name = name
@@ -108,7 +109,6 @@ class ContentFactory:
         return cls.types[content_type](name, category, content_type, author)
 
 
-# Categories definition
 class Category:
     auto_id = 0
 
@@ -139,8 +139,9 @@ class Category:
             raise StopIteration
 
 
-# Main site engine definition
 class Engine:
+    """Main site engine definition"""
+  
     def __init__(self):
         #self.users = []
         self.content = []
